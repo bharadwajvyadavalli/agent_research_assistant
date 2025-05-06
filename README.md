@@ -96,7 +96,7 @@ The API exposes the following endpoints:
 
 ## Practical Examples
 
-For a detailed end-to-end example of how this system works in practice, including a comprehensive workflow for time series forecasting research analysis, see [USAGE_EXAMPLES.md](./docs/USAGE_EXAMPLES.md).
+For a detailed end-to-end example of how this system works in practice, including a comprehensive workflow for time series forecasting research analysis, see [usage_examples.md](./docs/usage_examples.md).
 
 ## Custom Tools
 
